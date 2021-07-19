@@ -6,7 +6,7 @@ This parameter helps hospitals to identify patients of high LOS risk (patients w
 Suppose you have been hired as Data Scientist of HealthMan – a not for profit organization dedicated to manage the functioning of Hospitals in a professional and optimal manner.
 The task is to accurately predict the Length of Stay for each patient on case by case basis so that the Hospitals can use this information for optimal resource allocation and better functioning. The length of stay is divided into 11 different classes ranging from 0-10 days to more than 100 days.
 
-## Data Description
+## Data Description 
 ### Train Set
 Train.zip contains 1 csv alongside the data dictionary that contains definitions for each variable
 train.csv – File containing features related to patient, hospital and Length of stay on case basis
